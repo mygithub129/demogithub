@@ -2,4 +2,4 @@
 
 THis is my git file
 
-Updating the license file
+updating the license file
