@@ -2,4 +2,8 @@
 
 THis is my git file
 
+<<<<<<< Updated upstream
 updating the license file
+=======
+This is for stash
+>>>>>>> Stashed changes
